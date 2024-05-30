@@ -43,7 +43,7 @@ paginate     = 10
     keywords = ""
 
     [languages.en.params.logo]
-      logoText = "cat /con/runyan/thoughts"
+      logoText = "cat /thoughts"
       logoHomeLink = "/"
     # or
     #
