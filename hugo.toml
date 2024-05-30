@@ -1,4 +1,4 @@
-baseurl      = "conrunyan.dev"
+baseurl      = "https://conrunyan.github.io/personal-website"
 title        = "Connor's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
